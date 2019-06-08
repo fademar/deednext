@@ -12,6 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "antd": "^3.19.2",
+    "babel-plugin-import": "^1.12.0",
     "body-parser": "^1.19.0",
     "bootstrap": "^4.3.1",
     "dotenv": "^8.0.0",
@@ -20,6 +23,7 @@
     "express-session": "^1.16.1",
     "isomorphic-fetch": "^2.2.1",
     "next": "^8.1.0",
+    "null-loader": "^3.0.0",
     "passport": "^0.4.0",
     "passport-auth0": "^1.1.0",
     "react": "^16.8.6",
